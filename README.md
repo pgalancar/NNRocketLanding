@@ -1,2 +1,2 @@
 # NNRocketLanding
-Neural network built without ML libraries to successfully land a rocket at the intended spot. The data was gathered from an online game where players had to land rockets. If they were successful, the player's x and y velocities were recorded and stored in an Excel spreadsheet.
+Neural network built without ML libraries to successfully land a rocket at the intended spot. The data was gathered from an online game where players had to land rockets. The rockets' X and Y velocities, as well as the X and Y coordinates of the landing place, were measured and entered into the Excel spreadsheet if the experiment was successful. First two columns represent X and Y velocities, last two columns represent X and Y coordinates of landing spot.
